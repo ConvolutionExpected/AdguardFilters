@@ -1943,3 +1943,14 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log2.musical.ly^
 ||frontier.musical.ly^
 ||xlog-va.musical.ly^
+! Czech and Slovak related first-party trackers
+logapi.alza.cz
+||beam.dennikn.sk^
+||campaign.dennikn.sk^
+||tracker.dennikn.sk^
+||campaign.remp.sme.sk^
+||beam.remp.sme.sk^
+||tracker.remp.sme.sk^
+||harvester.hnonline.sk^
+||beam.remp.startitup.sk^
+||campaign.remp.startitup.sk^
